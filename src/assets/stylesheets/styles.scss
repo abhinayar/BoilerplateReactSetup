@@ -1,0 +1,10 @@
+// Test here
+$white : #fff;
+$variable: red;
+
+body {
+  text-align: center;
+  font-size: 42px;
+  color: $white;
+  background-color: $variable;
+}
